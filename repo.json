@@ -20,6 +20,28 @@
             "flags": [  ]
           }
         ]
-      }
+      },
+
+      {
+        "name": "Elden Ring Randomizer Tracker",
+        "author": "Herreteman",
+        "game_name": "Elden Ring",
+        "version": "1.0.0.0",
+        "flags": [ "map", "pins" ],
+        "required_app_version": "2.3.8.17",
+        "uid": "eldenring_items_and_map",
+        "link": "https://github.com/herreteman/eldenring_items_and_map/releases/download/v1.0.0/eldenring_items_and_map.zip",
+        "documentation_url": "https://github.com/herreteman/eldenring_items_and_map/blob/main/README.md",
+        "variants": [
+          {
+            "name": "Items + Map (Important locations)",
+            "flags": [ "map", "pins" ]
+          },
+          {
+            "name": "Items Only",
+            "flags": [  ]
+          }
+        ]
+      },
     ]
   }
